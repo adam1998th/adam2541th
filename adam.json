@@ -2,20 +2,21 @@
 
 //เวอร์ชั่นไว้สำหรับอัพเดทหากมีการอัพเดทต้องเปลี่ยนตัวเลขให้เยอะกว่าเดิม
 
-"Version":"1.33",
+"Version":"1.34",
 
 //@fram
 
 "Url":"https://github.com/adam1998th/adam2541th/raw/master/adam.zip" ,
 
 "Changelog":"
-💓พบไฟล์ใหม่ (22/02/2021)
-💓DTAC PRO SOCIAL
-💓DTAC PRO MUSIC
-💓DTAC PRO LINE
-           👇
-            👇
-        กดตกลง(เพื่ออัปเดทไฟล์ใหม่)
+➡️-พบไฟล์ใหม่ (05/03/2021)
+➡️-ข้อกำหนดการใช้งาน
+➡️-ควรมี internet เพื่อ Update file ใน
+การเริ่มต้น ใช้งาน
+🔛Sim dtac หลักเลยต้องมีGo เพลิน
+📌.. DTAC PRO SOCIAL
+📌.. DTAC PRO MUSIC
+📌.. DTAC PRO LINE
 ",
 
  
