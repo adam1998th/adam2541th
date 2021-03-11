@@ -1,0 +1,47 @@
+{
+
+//เวอร์ชั่นไว้สำหรับอัพเดทหากมีการอัพเดทต้องเปลี่ยนตัวเลขให้เยอะกว่าเดิม
+
+"Version":"1.1",
+
+//@fram
+
+"Url":"https://github.com/adam1998th/adam2541th/raw/master/adam.zip" ,
+
+"Changelog":"
+💓พบไฟล์ใหม่ (27/11/2020)
+💓DTAC PRO SOCIAL
+💓DTAC PRO MUSIC
+💓DTAC PRO LINE
+           👇
+            👇
+        กดตกลง(เพื่ออัปเดทไฟล์ใหม่)
+",
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+//ไม่ต้องยุ่งด้านล่าง
+
+"latestVersion": "1.0.0",
+
+"latestVersionCode": "1",
+
+"url": "",
+
+ "releaseNotes": [
+
+ "-Demo"
+
+  ]
+
+}
